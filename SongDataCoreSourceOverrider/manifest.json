@@ -9,8 +9,5 @@
 	"dependsOn": {
 		"BSIPA": "^4.2.0",
 		"SongDataCore": "^1.4.1"
-	},
-	"loadBefore": [
-		"SongDataCore"
-	]
+	}
 }
